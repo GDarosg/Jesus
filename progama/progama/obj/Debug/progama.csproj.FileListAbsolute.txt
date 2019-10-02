@@ -1,0 +1,10 @@
+C:\Users\gusta\source\repos\progama\progama\bin\Debug\progama.exe.config
+C:\Users\gusta\source\repos\progama\progama\bin\Debug\progama.exe
+C:\Users\gusta\source\repos\progama\progama\bin\Debug\progama.pdb
+C:\Users\gusta\source\repos\progama\progama\obj\Debug\progama.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\progama\progama\obj\Debug\progama.Form1.resources
+C:\Users\gusta\source\repos\progama\progama\obj\Debug\progama.Properties.Resources.resources
+C:\Users\gusta\source\repos\progama\progama\obj\Debug\progama.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\progama\progama\obj\Debug\progama.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\progama\progama\obj\Debug\progama.exe
+C:\Users\gusta\source\repos\progama\progama\obj\Debug\progama.pdb
